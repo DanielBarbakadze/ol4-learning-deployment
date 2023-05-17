@@ -29,7 +29,7 @@ const About = () => {
 
   console.log({ location });
 
-  return <h2>About Page</h2>;
+  return <h2>About Page updated from develop</h2>;
 };
 
 const Contact = () => <h2>Contact Page</h2>;
