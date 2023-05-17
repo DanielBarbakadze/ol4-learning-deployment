@@ -2,7 +2,6 @@ import {
   Routes,
   Route,
   NavLink,
-  useNavigate,
   useParams,
   useLocation,
 } from "react-router-dom";
