@@ -34,7 +34,7 @@ const About = () => {
 
 const Contact = () => <h2>Contact Page</h2>;
 
-const Blog = () => <h2>Blog Page</h2>;
+const Blog = () => <h2>Blog Page updated from feature branch</h2>;
 
 const BlogItem = () => {
   const { blogId } = useParams();
