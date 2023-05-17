@@ -22,7 +22,7 @@ const Footer = () => (
   </footer>
 );
 
-const Home = () => <h2>Home Page UPDATED</h2>;
+const Home = () => <h2>Home Page UPDATED2</h2>;
 
 const About = () => {
   const location = useLocation();
